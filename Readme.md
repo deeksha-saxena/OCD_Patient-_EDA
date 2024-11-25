@@ -11,7 +11,7 @@ Clinical Features:
 2. **Y-BOCS Scores:** Obsession and compulsion severity levels.
 Symptom Duration (in months).
 Types of obsessions (e.g., harm-related) and compulsions (e.g., washing, checking).
-3. **Co-morbidities:**Depression, Anxiety, and other associated conditions like MDD, PTSD, GAD, and Panic Disorder.
+3. **Co-morbidities:** Depression, Anxiety, and other associated conditions like MDD, PTSD, GAD, and Panic Disorder.
 4. **Family History:**
 Presence or absence of a family history of OCD.
 5. **Treatment Details:**
