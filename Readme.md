@@ -5,16 +5,16 @@ This repository contains an analysis of a dataset focused on patients diagnosed 
 ## Dataset
 The ocd_patient_dataset.csv file contains the following information:
 
-**Demographics:**
+1. **Demographics:**
 Age, Gender, Ethnicity, and Marital Status of OCD patients.
 Clinical Features:
-**Y-BOCS Scores:** Obsession and compulsion severity levels.
+2. **Y-BOCS Scores:** Obsession and compulsion severity levels.
 Symptom Duration (in months).
 Types of obsessions (e.g., harm-related) and compulsions (e.g., washing, checking).
-**Co-morbidities:**Depression, Anxiety, and other associated conditions like MDD, PTSD, GAD, and Panic Disorder.
-**Family History:**
+3. **Co-morbidities:**Depression, Anxiety, and other associated conditions like MDD, PTSD, GAD, and Panic Disorder.
+4. **Family History:**
 Presence or absence of a family history of OCD.
-**Treatment Details:**
+5. **Treatment Details:**
 Medication usage (e.g., Benzodiazepines, SSRIs, SNRIs).
 
 ## Key Features of the Notebook
@@ -26,7 +26,7 @@ Examination of Y-BOCS scores and symptom durations.
 3. **Visualization:**
 Bar plots, box plots, and scatter plots for clear representation of findings.
 Insights into recovery times and co-morbidity prevalence.
-Statistical Observations:
+4. **Statistical Observations:**
 Skewness in data distribution.
 Analysis of recovery trends by age, gender, and family history.
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ## Project Structure
 The repository includes the following files:
 
-1.**OCD_Patients.ipynb:** The Jupyter Notebook containing the complete analysis, visualizations, and observations.
-2.**ocd_patient_dataset.csv:** The dataset used for the analysis, containing demographic, clinical, and treatment-related information.
-3.**requirements.txt:** List of required Python libraries.
+1. **OCD_Patients.ipynb:** The Jupyter Notebook containing the complete analysis, visualizations, and observations.
+2. **ocd_patient_dataset.csv:** The dataset used for the analysis, containing demographic, clinical, and treatment-related information.
+3. **requirements.txt:** List of required Python libraries.
 
